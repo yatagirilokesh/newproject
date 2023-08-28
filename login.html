@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ <style>
+  body
+  {
+   background-repeat:no-repeat;
+   background-attachment:fixed;
+   background-size:cover;
+  }
+ </style>
+  
+  <title>Travel page</title>
+
+  <script type="text/javascript" >
+  function validation()
+  {
+   var number=document.login.mobile.value;
+   var password=document.login.pwd.value;
+    if(number=="")
+     {
+        alert("Please Enter correct mobile number");
+		document.login.mobile.focus();
+		return false;
+     }
+
+	 if(password=="")
+	   {
+		   alert("Please enter valid password");
+		   document.login.pwd.focus();
+		   return false;
+		 }
+
+  }
+  </script>
+ </head>
+ <body style="background-image:url('https://img.freepik.com/free-vector/flat-design-travel-background_23-2149193475.jpg?w=2000');">
+ <form method="post" name="login" action="main.html" onsubmit="return validation()">
+ <br><br>
+ <br><br>
+ <center>
+ <hr>
+ <font color="#ff3399" size="6">Welcome </font><br><marquee><font color="#009900" size="6"><i>Lucky Travel & Tourism</i></marquee></font><br>
+ <hr>
+ 
+ </center>
+ <br><br>
+
+ 
+
+<center>
+
+<FONT color="black" size="4">
+Mobile no:
+<input type="text" name="mobile" value=""><br><br>
+Password: &nbsp
+<input type="password" name="pwd" value=""><br><br>
+<input type="submit" name="login" value="login">
+
+</FONT>
+</center>
+
+
+
+ 
+
+
+  </form>
+ </body>
+</html>

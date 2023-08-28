@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>Bus travel</title>
+  <style>
+  body
+  {
+   background-repeat:no-repeat;
+   background-attachment:fixed;
+   background-size:cover;
+  }
+ </style>
+
+ <style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
+</style>
+
+ </head>
+ <body style="background-image:url('https://png.pngtree.com/background/20210717/original/pngtree-travel-travel-minimalist-background-picture-image_1433932.jpg');">
+ <center><br><br><br><table style="width:100%">
+ <tr>
+   <th>S No</th>
+   <th>Pickup-Drop</th>
+   <th>Via</td>
+   <th>Visiting Places</th>
+   <th>Cost</th>
+ </tr>
+
+ <tr>
+   <td>1</td>
+   <td>Banglore</td>
+   <td>Mysore,Coorg</td>
+   <td>Banglore Zoo,mysore palace,Nandi Hills,coorg,abbey falls</td>
+   <td>15000</td>
+ </tr>
+
+<tr>
+   <td>2</td>
+   <td>Kurnool</td>
+   <td>Gadwal</td>
+   <td>Konda reddy fort,rock gardens,gadwal fort</td>
+   <td>5000</td>
+ </tr>
+
+ <tr>
+   <td>3</td>
+   <td>Chennai</td>
+   <td>Coimbatore</td>
+   <td>Vydehi hills,Adiyogi Shiva statue,Marudhamali hill temple,Monkey falls</td>
+   <td>12000</td>
+ </tr>
+
+ <tr>
+   <td>4</td>
+   <td>Nellore</td>
+   <td>tirupati</td>
+   <td>Tiruoati Zoo, Venkateswara swamy temple, Kalahasti ,Thalakona waterfalls</td>
+   <td>6000</td>
+ </tr>
+
+ 
+
+ </table></center>
+  
+ </body>
+</html>

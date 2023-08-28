@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>Bus travel</title>
+  <style>
+  body
+  {
+   background-repeat:no-repeat;
+   background-attachment:fixed;
+   background-size:cover;
+  }
+ </style>
+
+ <style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
+</style>
+
+ </head>
+ <body style="background-image:url('https://png.pngtree.com/thumb_back/fh260/back_our/20190619/ourmid/pngtree-simple-train-travel-tour-banner-background-image_139198.jpg');">
+ <center><br><br><br><table style="width:100%">
+ <tr>
+   <th>S No</th>
+   <th>Place</th>
+   <th>Visiting Places</th>
+   <th>Cost</th>
+ </tr>
+
+ <tr>
+   <td>1</td>
+   <td>Kerala</td>
+   <td>Munnar,Kochi,Sree Padmanabhaswamy,Wayanad,Kovalam</td>
+   <td>15000</td>
+ </tr>
+
+<tr>
+   <td>2</td>
+   <td>Gujarat</td>
+   <td>Statue of Unity,Gir National Park,Rani ki vavAdalaj Steowell,Saputara,Laxmi Vilas Palace</td>
+   <td>20000</td>
+ </tr>
+
+ <tr>
+   <td>3</td>
+   <td>Delhi</td>
+   <td>India Gate,red fort,Lodhi garden,Jama Masjid,Rashtrapati Bhavan,Taj mahal</td>
+   <td>25000</td>
+ </tr>
+
+ <tr>
+   <td>4</td>
+   <td>Rajasthan</td>
+   <td>Rathambore National park,Amber Palace,Mehrangarh fort,hawa Mahal,Udaipur,The city Palace,Nahargarh fort,Jaisalmer fort</td>
+   <td>30000</td>
+ </tr>
+
+ 
+
+ </table></center>
+
+ <h3><font color="#cc0033">Starting Dates: 
+ </font></h3>
+ <table style="widthe:60%">
+ <tr>
+ <th>S No</th>
+ <th>Date</th>
+ </tr>
+
+ <tr>
+  <td>1</td>
+  <td>29-08-2023</td>
+ </tr>
+ 
+ <tr>
+  <td>2</td>
+  <td>1-09-2023</td>
+ </tr>
+
+ <tr>
+  <td>3</td>
+  <td>15-09-2023</td>
+ </tr>
+
+<tr>
+  <td>4</td>
+  <td>22-09-2023</td>
+</tr>
+
+<tr>
+  <td>5</td>
+  <td>29-10-2023</td>
+ </tr>
+
+ </table>
+
+
+
+  
+ </body>
+</html>

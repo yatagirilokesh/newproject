@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body style="background-image:url('https://png.pngtree.com/background/20210710/original/pngtree-travel-around-the-world-travel-poster-template-picture-image_1017255.jpg');">
+
+<font color="black" size="5">Mode of Transport:</font><br>
+<a href="bus.html" target="des"><font color="#3300cc" size="4">Bus</font></a><br>
+<a href="train.html" target="des"><font color="#3300cc" size="4">Train</font></a><br>
+<a href="air.html" target="des"><font color="#3300cc" size="4">Flight</font></a><br>
+  
+ </body>
+</html>
